@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Helio Antunes!</strong>
+## Olá, meu nome é <strong>Helio Antunes!</strong>
 
 > Seja bem vindo(a) ao meu perfil, tenho 18 anos e atualmente estou concluindo meu curso técnico em informática pelo CEFET-MG.
 
