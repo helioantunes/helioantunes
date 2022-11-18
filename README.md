@@ -1,10 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Helio Antunes!</strong>
 
-> Olá tenho 18 anos e atualmente estou concluindo meu curso tecnico em informatica pelo CEFET-MG.
-
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+> Olá, tenho 18 anos e atualmente estou concluindo meu curso técnico em informática pelo CEFET-MG.
 
 ----
 
